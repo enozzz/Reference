@@ -1,126 +1,62 @@
-SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0
+REFERENCE No-Use Without Permission License v1.0 (FR)
+
+SPDX-License-Identifier: LicenseRef-REFERENCE-NoUse-1.0
 Copyright (c) 2025 The REFERENCE Project Authors
 
-This repository is licensed under the PolyForm Noncommercial License.
+1. Objet et définitions
+"Logiciel" désigne le code source, la documentation technique et tout fichier de ce dépôt.
+"Organisation" désigne l’organisation détentrice du projet REFERENCE (vous).
+"Utiliser" comprend, sans s’y limiter : exécuter, compiler, tester, déployer, 
+héberger, mettre à disposition, vendre, louer, distribuer, fournir en tant que service (SaaS), 
+intégrer, lier, ou créer des œuvres dérivées.
+"Contributeur" : toute personne soumettant une contribution au dépôt officiel via une Pull Request acceptée.
 
-The licensor grants you a copyright license for the
-software to do everything you might do with the software
-that would otherwise infringe the licensor's copyright
-in it for any permitted purpose.  However, you may
-only distribute the software according to [Distribution
-License](#distribution-license) and make changes or new works
-based on the software according to [Changes and New Works
-License](#changes-and-new-works-license).
+2. Licence publique — lecture et contribution uniquement
+Sous réserve du respect des présentes, vous bénéficiez d’une licence non exclusive, non transférable, 
+sans redevance, révocable à tout moment, vous autorisant UNIQUEMENT :
+(a) à LIRE et CONSULTER le Logiciel ;
+(b) à FORKER le dépôt UNIQUEMENT dans le but de préparer une contribution au projet amont ; et
+(c) à EXÉCUTER le Logiciel de manière minimale et locale, uniquement pour valider votre contribution avant soumission.
+Aucun autre droit n’est accordé.
 
-## Distribution License
+3. Interdictions (pas de chemins détournés)
+Sauf autorisation écrite préalable de l’Organisation, il est strictement interdit de :
+(a) Utiliser le Logiciel à toute fin de production ou démonstration externe ;
+(b) Le déployer ou le mettre à disposition de tiers, directement ou via un service réseau (SaaS, cloud, API, multi-tenant, 
+   plugin, application embarquée, ou tout service similaire) ;
+(c) Le modifier ou créer des œuvres dérivées, excepté dans le seul but de soumettre une contribution au dépôt amont ;
+(d) Le redistribuer, le sublicencier, le vendre, le prêter, le louer, le prêter en “managed service” ou en “as a Service” ;
+(e) L’utiliser pour entraîner des modèles ou systèmes destinés à fournir substantiellement la même fonctionnalité ;
+(f) Utiliser les noms, marques, logos, ou signes distinctifs associés à REFERENCE.
 
-The licensor grants you an additional copyright license
-to distribute copies of the software.  Your license
-to distribute covers distributing the software with
-changes and new works permitted by [Changes and New Works
-License](#changes-and-new-works-license).
+4. Contributions (CLA simplifié)
+En soumettant une contribution acceptée, le Contributeur concède à l’Organisation une licence mondiale, 
+perpétuelle, irrévocable, transférable et sous-licenciable pour utiliser, reproduire, modifier, distribuer 
+et exploiter commercialement ladite contribution et œuvres dérivées. Les droits moraux du Contributeur 
+demeurent conformément au droit applicable. Le Contributeur garantit détenir les droits nécessaires.
 
-## Notices
+5. Brevets
+Aucun droit de brevet n’est concédé aux utilisateurs par la présente. Tout Contributeur concède à l’Organisation 
+une licence de brevet suffisante pour l’exploitation de ses contributions dans le cadre du projet.
 
-You must ensure that anyone who gets a copy of any part of
-the software from you also gets a copy of these terms or the
-URL for them above, as well as copies of any plain-text lines
-beginning with `Required Notice:` that the licensor provided
-with the software.  For example:
+6. Marques
+Aucun droit sur les marques, noms commerciaux, logos, ou labels de l’Organisation (y compris “REFERENCE”) 
+n’est accordé par la présente. Tout usage est soumis à autorisation écrite.
 
-> Required Notice: Copyright Yoyodyne, Inc. (http://example.com)
+7. Garantie — Responsabilité
+Le Logiciel est fourni “EN L’ÉTAT”, sans aucune garantie. Dans la mesure permise par la loi, l’Organisation 
+et les auteurs ne sauraient être tenus responsables de tout dommage direct ou indirect.
 
-## Changes and New Works License
+8. Durée — Résiliation
+La présente prend effet à l’accès au Logiciel et demeure en vigueur jusqu’à résiliation. Toute violation 
+entraîne résiliation immédiate des droits accordés par la présente. En cas de résiliation, vous devez cesser 
+toute Utilisation et détruire toute copie. Les clauses 4–7–9 survivent à la résiliation.
 
-The licensor grants you an additional copyright license to
-make changes and new works based on the software for any
-permitted purpose.
+9. Droit applicable — Juridiction
+La présente est régie par le droit français. Tout litige relève des tribunaux compétents de Paris, sauf 
+disposition d’ordre public contraire.
 
-## Patent License
-
-The licensor grants you a patent license for the software that
-covers patent claims the licensor can license, or becomes able
-to license, that you would infringe by using the software.
-
-## Noncommercial Purposes
-
-Any noncommercial purpose is a permitted purpose.
-
-## Personal Uses
-
-Personal use for research, experiment, and testing for
-the benefit of public knowledge, personal study, private
-entertainment, hobby projects, amateur pursuits, or religious
-observance, without any anticipated commercial application,
-is use for a permitted purpose.
-
-## Noncommercial Organizations
-
-Use by any charitable organization, educational institution,
-public research organization, public safety or health
-organization, environmental protection organization,
-or government institution is use for a permitted purpose
-regardless of the source of funding or obligations resulting
-from the funding.
-
-## Fair Use
-
-You may have "fair use" rights for the software under the
-law. These terms do not limit them.
-
-## No Other Rights
-
-These terms do not allow you to sublicense or transfer any of
-your licenses to anyone else, or prevent the licensor from
-granting licenses to anyone else.  These terms do not imply
-any other licenses.
-
-## Patent Defense
-
-If you make any written claim that the software infringes or
-contributes to infringement of any patent, your patent license
-for the software granted under these terms ends immediately. If
-your company makes such a claim, your patent license ends
-immediately for work on behalf of your company.
-
-## Violations
-
-The first time you are notified in writing that you have
-violated any of these terms, or done anything with the software
-not covered by your licenses, your licenses can nonetheless
-continue if you come into full compliance with these terms,
-and take practical steps to correct past violations, within
-32 days of receiving notice.  Otherwise, all your licenses
-end immediately.
-
-## No Liability
-
-***As far as the law allows, the software comes as is, without
-any warranty or condition, and the licensor will not be liable
-to you for any damages arising out of these terms or the use
-or nature of the software, under any kind of legal claim.***
-
-## Definitions
-
-The **licensor** is the individual or entity offering these
-terms, and the **software** is the software the licensor makes
-available under these terms.
-
-**You** refers to the individual or entity agreeing to these
-terms.
-
-**Your company** is any legal entity, sole proprietorship,
-or other kind of organization that you work for, plus all
-organizations that have control over, are under the control of,
-or are under common control with that organization.  **Control**
-means ownership of substantially all the assets of an entity,
-or the power to direct its management and policies by vote,
-contract, or otherwise.  Control can be direct or indirect.
-
-**Your licenses** are all the licenses granted to you for the
-software under these terms.
-
-**Use** means anything you do with the software requiring one
-of your licenses.
+10. Licences commerciales
+Pour toute utilisation au-delà de l’article 2, contacter : enzo.verbanaz@gmail.com (ou autre contact).
 
 
