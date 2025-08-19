@@ -1,0 +1,3 @@
+- Maintainers: liste initiale.
+- Process: 2 approvals + CI verte => merge.
+- Releases: tag signé, changelog, binaire reproductible si applicable.
