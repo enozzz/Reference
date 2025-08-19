@@ -1,0 +1,1 @@
+Toutes les reflections phylosophique liées de pret ou de loin au projet. Ne pas hésiter a marquer tout ce qui vient, on fera le tri avec le temps. Le fichier Main est la ligne directrice pour la réalisation de la vision du futur proposée par REFERENCE.
