@@ -1,0 +1,1 @@
+Ici j'ai mis des trucs juridique que le chat m'a suggéré en fonction des specs que je lui ai décris. Si vous pensez que des changements sont nécéssaires, n'hésitez pas à m'en faire par et/ou à proposer des commits.
