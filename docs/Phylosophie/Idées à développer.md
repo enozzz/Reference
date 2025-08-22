@@ -6,3 +6,4 @@ Reference est une vision globale et totale sur l'état actuel du monde et sur la
 - explications et exemples concret de prise de décision collective
 - explication exacte du fonctionnement du système
 - (pour l'appli) comment visualiser en 2 ou 3 dimensions une ifinité de dimensions différentes sans perdre le sens de la figure. Quel est le meilleur compromis pour visualiser notre espace d'expertise ?
+-une fois que le système est fonctionnel, ce sera le vrai humanity last exam puisque toutes les expertises sont présentes. Si l'IA est vraiment plus intelligente que chaque humain sur chaque domaine, le système rankera l'IA comme expert n°1 sur chaque domaine. M'ASI est là.
